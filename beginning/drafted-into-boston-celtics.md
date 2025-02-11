@@ -1,4 +1,5 @@
-## Drafted into Boston Celtics
+# Drafted into Boston Celtics
+Who would you go against?
 
 [Go into the semifinals against the Cavaliers](../step-2/match-results-against-oklahoma-city-thunder.md)
 

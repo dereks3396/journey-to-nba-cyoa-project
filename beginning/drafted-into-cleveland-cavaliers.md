@@ -1,4 +1,5 @@
-## Drafted into Cleveland Cavaliers
+# Drafted into Cleveland Cavaliers
+Who would you go against?
 
 [Go into the semifinals against the Phoenix Suns](match-results-against-the-phoenix-suns.md)
 
