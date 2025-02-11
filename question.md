@@ -1,7 +1,7 @@
 # One day you decide to join the NBA
 For which team will you play for?
 
-[Play for the Cavaliers](beginning/drafted-into-cleveland-cavaliers)
+[Play for the Cavaliers](beginning/drafted-into-cleveland-cavaliers.md)
 
 [Play for the Celtics](beginning/drafted-into-boston-celtics.md)
 
