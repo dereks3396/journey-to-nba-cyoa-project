@@ -1,4 +1,5 @@
-## Drafted into Chicago Bulls
+# Drafted into Chicago Bulls
+Who would you go against?
 
 [Go into the semifinals against the OKC Thunder](../step-2/match-results-against-oklahoma-city-thunder.md)
 

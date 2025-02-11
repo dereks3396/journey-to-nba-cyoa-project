@@ -1,4 +1,5 @@
-## Drafted into Boston Celtics
+# Drafted into Boston Celtics
+Who would you go against?
 
 <<<<<<< HEAD
 [Go into the semifinals against the Cavaliers]()
