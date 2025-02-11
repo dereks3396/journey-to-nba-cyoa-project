@@ -1,5 +1,5 @@
 # One day you decide to join the NBA
-for which team will you play for?
+For which team will you play for?
 
 [Play for the Cavaliers](drafted-into-cleveland-cavaliers)
 
