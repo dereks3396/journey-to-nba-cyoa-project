@@ -6,4 +6,4 @@ The final score was 178 to a surprising 65. (I thought you were going to get 20 
 
 What now?
 
-Decide to join [another team](../question.md) (Don't think you were ever winning this match 😂)
+Decide to join [another team.](../question.md) (Don't think you were ever winning this match 😂)
