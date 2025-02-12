@@ -8,4 +8,4 @@ Ready?
 
 [Yes](../../step-3/suns-head-into-the-finals-against-the-lakers.md)
 
-[No](wow.md)
+[No](../../fraud.md)
