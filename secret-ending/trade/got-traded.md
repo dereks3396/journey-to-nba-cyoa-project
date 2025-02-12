@@ -7,4 +7,4 @@ Sounds like **[SOMEONE](https://www.google.com/search?gs_ssp=eJzj4tbP1TcwNDYtjk-
 
 [You win a championship, but Cleveland never forgives you](aura.md)
 
-[You struggle to fit in with your new team and regret leaving]()
+[You struggle to fit in with your new team and regret leaving](../)
