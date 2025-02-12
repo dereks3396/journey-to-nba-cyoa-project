@@ -10,4 +10,4 @@ You will now have the choice to advance into the finals.
 
 [Yes](training.md)
 
-[No](../fraud.md)
+[No](../../fraud.md)
