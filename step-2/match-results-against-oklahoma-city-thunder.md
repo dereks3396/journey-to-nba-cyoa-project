@@ -1,5 +1,9 @@
 # Match results against the Thunders
 
-Congrats! You just lost against Oklahoma City Thunders. What a bummer I must say, better luck next time!
+Congrats! (not really), You just lost against Oklahoma City Thunders.
+
+The final score was 101-88
+
+What a bummer I must say, better luck next time!
 
 [Fly back Home](../question.md)
